@@ -6,3 +6,5 @@ const fizzBuzz = num => {
         else console.log(i)
     }
 }
+
+// fizzBuzz(100)
