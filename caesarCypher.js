@@ -21,4 +21,5 @@ const caesarCipher = (str, num) => {
     return newString
 }
 
-console.log(caesarCipher('a letter', 5))
+// console.log(caesarCipher('a letter', 5))
+// console.log(caesarCipher('JavaScript', -900))
