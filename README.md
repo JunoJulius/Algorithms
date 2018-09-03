@@ -1,1 +1,4 @@
 ## Algorithms
+
+
+This course teaches algorithms in javascript from the ground up.  Using algorithms in your programming allows you to improve the efficiency, performance, speed, and scalability of your code/applications/programs.  You will learn what algorithms are, why they are important, and how to code them out in JavaScript.  You will also learn other important programming concepts along the way such as functional programming, time complexity, recursion, and other important concepts, because you will be implementing them in the algorithms that you build throughout this course.  This course also heavily uses diagrams and animations to help make understanding the material easier.
