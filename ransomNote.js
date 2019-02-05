@@ -27,8 +27,6 @@ const harmlessRansomNote = (noteText, magazineText) => {
 
 
 
-
-
 // function binarySearch(array, key){
 //     var low = 0
 //     var high = array.length - 1
